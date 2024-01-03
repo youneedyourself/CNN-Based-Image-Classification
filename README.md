@@ -1,7 +1,6 @@
 # CNN-Based-Image-Classifacation
 
- Building face object detection and recognization model based on MTCNN and Facenet model.
- Building an application to recognize face using Streamlit.
+ Building Image Classification model based on CNN model.
 
 ## Abstract
 
