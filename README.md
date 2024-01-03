@@ -28,21 +28,6 @@ The picture below illustrates some famous places in Vietnam: One Pillar Pagoda, 
 * Evaluate the model
 * Use the trained model for prediction
 
-## Results
-
-Run the file `mainpy` to test your result trained model online in video (You can test your result in camera by change the line "v_cap = cv2.VideoCapture(0)" to "v_cap = cv2.VideoCapture()" in giaodiendiemdanh.py).
-
-```
-python main.py
-```
-
-The results achieved by the face detection and classification model trained on your dataset will vary depending on various factors such as the quality of your dataset, the size of the training set, and the chosen hyperparameters. It is recommended to experiment with different configurations to achieve the best results for your specific use case.
-
-<p align="center">
-  <img src="data/diemdanh.png"width="541" height="241">
-</p>
-
-
 ## Contributing
 
 Contributions to this repository are welcome. If you find any issues or would like to suggest improvements, please open an issue or submit a pull request.
