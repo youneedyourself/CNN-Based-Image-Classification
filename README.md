@@ -8,7 +8,7 @@ In this project, we build a CNN (Convolution Neural Nets) model for the image cl
 
 This project is mainly referenced at: https://github.com/pbcquoc/cnn/blob/master/cnn.ipynb. Thanks a lot!
 
-# Dataset
+## Dataset
 In this lesson, you must build a model to identify famous landmarks in Vietnam depicted in the photo. The training dataset includes 20k images, which is a small part of the dataset in the 2018 ZaloAI competition.
 
 The picture below illustrates some famous places in Vietnam: One Pillar Pagoda, Ha Long Bay.
